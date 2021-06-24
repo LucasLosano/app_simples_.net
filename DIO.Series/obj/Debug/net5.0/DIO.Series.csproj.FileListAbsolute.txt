@@ -1,0 +1,16 @@
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\DIO.Series\bin\Debug\net5.0\DIO.Series.exe
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\DIO.Series\bin\Debug\net5.0\DIO.Series.deps.json
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.json
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\DIO.Series\bin\Debug\net5.0\DIO.Series.runtimeconfig.dev.json
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\DIO.Series\bin\Debug\net5.0\DIO.Series.dll
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\DIO.Series\bin\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\DIO.Series\bin\Debug\net5.0\DIO.Series.pdb
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\DIO.Series\obj\Debug\net5.0\DIO.Series.csprojAssemblyReference.cache
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\DIO.Series\obj\Debug\net5.0\DIO.Series.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfoInputs.cache
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\DIO.Series\obj\Debug\net5.0\DIO.Series.AssemblyInfo.cs
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\DIO.Series\obj\Debug\net5.0\DIO.Series.csproj.CoreCompileInputs.cache
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\DIO.Series\obj\Debug\net5.0\DIO.Series.dll
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\DIO.Series\obj\Debug\net5.0\ref\DIO.Series.dll
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\DIO.Series\obj\Debug\net5.0\DIO.Series.pdb
+C:\Users\EVERALDO\Desktop\Pasta\Programação\C#\DIo\DIO.Series\obj\Debug\net5.0\DIO.Series.genruntimeconfig.cache
